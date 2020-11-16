@@ -9,6 +9,12 @@
 }
 
 
+const countDown=(x)=>{
+while (x>=0){
+return x--;
+}
+
+
 
 
 //  `Thank you, ${arr[i]} for the wonderful ${event} gift! `;
