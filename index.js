@@ -11,7 +11,8 @@
 
 const countDown=(x)=>{
 while (x>=0){
-return x--;
+console.log(x--);
+}
 }
 
 
